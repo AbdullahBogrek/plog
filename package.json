@@ -1,0 +1,26 @@
+{
+  "name": "plog",
+  "version": "1.0.0",
+  "description": "PLOG Blog App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahBogrek/plog.git"
+  },
+  "keywords": [
+    "blog",
+    "app"
+  ],
+  "author": "Abdullah Böğrek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdullahBogrek/plog/issues"
+  },
+  "homepage": "https://github.com/AbdullahBogrek/plog#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
